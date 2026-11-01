@@ -1,0 +1,12 @@
+.venv/
+build/
+__pycache__/
+*.so
+*.pyd
+*.dylib
+*.o
+.cache/
+.DS_Store
+compile_commands.json
+logs/
+*.log
